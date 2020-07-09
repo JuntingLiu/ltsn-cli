@@ -1,0 +1,24 @@
+{
+  "name": "ltsn",
+  "version": "1.0.0",
+  "description": "Node LTS 的版本查看小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuntingLiu/ltsn-cli.git"
+  },
+  "keywords": [
+    "Node",
+    "LTS",
+    "CLI"
+  ],
+  "author": "Junting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuntingLiu/ltsn-cli/issues"
+  },
+  "homepage": "https://github.com/JuntingLiu/ltsn-cli#readme"
+}
