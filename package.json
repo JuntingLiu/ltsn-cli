@@ -1,5 +1,5 @@
 {
-  "name": "ltsn",
+  "name": "@junting/ltsn",
   "version": "1.0.0",
   "description": "Node LTS 的版本查看小工具",
   "main": "index.js",
